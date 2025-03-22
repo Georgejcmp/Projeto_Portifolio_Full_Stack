@@ -1,1 +1,2 @@
-Projeto Portfólio Full Stack + Agentes de IA - Formação DEV
+Projeto Portfólio Full Stack + Agentes de IA
+Formação DEV
